@@ -1,0 +1,19 @@
+{
+  "name": "leoliu-studio",
+  "version": "1.0.1",
+  "schemaVersion": 1,
+  "components": {
+    "core": {
+      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.1/core-1.0.1.zip",
+      "size": 1709249,
+      "sha256": "062b503cc44dba9caf627634e98a685466f9f704acb6c3318e5151b1f4bec027"
+    },
+    "runtime": {
+      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.1/runtime-1.0.1.zip",
+      "size": 11786353,
+      "sha256": "767222662adf453b02177caf344fe099d8e9f5fa94884779dea41010cff51195"
+    }
+  },
+  "editor_url": null,
+  "notes": "修复素材改名校验，加入版权声明、页面混淆和签名更新支持。"
+}
