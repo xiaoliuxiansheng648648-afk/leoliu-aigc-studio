@@ -1,19 +1,19 @@
 {
   "name": "leoliu-studio",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "schemaVersion": 1,
   "components": {
     "core": {
-      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.1/core-1.0.1.zip",
-      "size": 1709249,
-      "sha256": "062b503cc44dba9caf627634e98a685466f9f704acb6c3318e5151b1f4bec027"
+      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.3/core-1.0.3.zip",
+      "size": 1717495,
+      "sha256": "7838e6c60890ef732c798c9b5fcf71c51ff2ad1b77cc9d52e41cfb055a943536"
     },
     "runtime": {
-      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.1/runtime-1.0.1.zip",
+      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.3/runtime-1.0.3.zip",
       "size": 11786353,
       "sha256": "767222662adf453b02177caf344fe099d8e9f5fa94884779dea41010cff51195"
     }
   },
   "editor_url": null,
-  "notes": "修复素材改名校验，加入版权声明、页面混淆和签名更新支持。"
+  "notes": "新增逐镜审核：选用成片并在对话继续后才生成下一镜，该模式保持开机；新增单文本优化反馈，主动提交时上传文字。"
 }
