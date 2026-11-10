@@ -1,19 +1,19 @@
 {
   "name": "leoliu-studio",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "schemaVersion": 1,
   "components": {
     "core": {
-      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.3/core-1.0.3.zip",
-      "size": 1717495,
-      "sha256": "7838e6c60890ef732c798c9b5fcf71c51ff2ad1b77cc9d52e41cfb055a943536"
+      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.4/core-1.0.4.zip",
+      "size": 1743150,
+      "sha256": "da6d6900fdd6dabef58cb6be72a76dd9c34b4ba414d7575106875a93cadfa118"
     },
     "runtime": {
-      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.3/runtime-1.0.3.zip",
-      "size": 11786353,
-      "sha256": "767222662adf453b02177caf344fe099d8e9f5fa94884779dea41010cff51195"
+      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.4/runtime-1.0.4.zip",
+      "size": 11801332,
+      "sha256": "71152f4746112e9b284b12bf6cc1e4cc5cd420553f97f27df31d5ba135e38d19"
     }
   },
   "editor_url": null,
-  "notes": "新增逐镜审核：选用成片并在对话继续后才生成下一镜，该模式保持开机；新增单文本优化反馈，主动提交时上传文字。"
+  "notes": "新增首帧＋多参考工作流（一镜接一镜）、自动保存、多选上传、重抽废片展示；修复视图跳转和连接重试。"
 }
