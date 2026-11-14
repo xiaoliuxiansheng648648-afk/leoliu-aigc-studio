@@ -1,19 +1,19 @@
 {
   "name": "leoliu-studio",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "schemaVersion": 1,
   "components": {
     "core": {
-      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.4/core-1.0.4.zip",
-      "size": 1743150,
-      "sha256": "da6d6900fdd6dabef58cb6be72a76dd9c34b4ba414d7575106875a93cadfa118"
+      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.5/core-1.0.5.zip",
+      "size": 1752377,
+      "sha256": "783f147d961c95e3dad4fd44af1a7c7031235ac5700a435abb76433dfc23454c"
     },
     "runtime": {
-      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.4/runtime-1.0.4.zip",
+      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.5/runtime-1.0.5.zip",
       "size": 11801332,
       "sha256": "71152f4746112e9b284b12bf6cc1e4cc5cd420553f97f27df31d5ba135e38d19"
     }
   },
   "editor_url": null,
-  "notes": "新增首帧＋多参考工作流（一镜接一镜）、自动保存、多选上传、重抽废片展示；修复视图跳转和连接重试。"
+  "notes": "素材支持横向滚动与悬停删除；专业编辑面板展开完整提示词与版本预览；首帧接戏支持 AI 审核及重抽上限后的末帧接续；反馈入口更醒目，修复新建项目写草稿与并发状态记录。"
 }
