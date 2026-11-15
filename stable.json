@@ -1,19 +1,19 @@
 {
   "name": "leoliu-studio",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "schemaVersion": 1,
   "components": {
     "core": {
-      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.5/core-1.0.5.zip",
-      "size": 1752377,
-      "sha256": "783f147d961c95e3dad4fd44af1a7c7031235ac5700a435abb76433dfc23454c"
+      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.6/core-1.0.6.zip",
+      "size": 1773270,
+      "sha256": "9148456534d1c90ba0f3faa1b9cf5307487917887c3734326e45fe36235c4214"
     },
     "runtime": {
-      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.5/runtime-1.0.5.zip",
+      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.6/runtime-1.0.6.zip",
       "size": 11801332,
       "sha256": "71152f4746112e9b284b12bf6cc1e4cc5cd420553f97f27df31d5ba135e38d19"
     }
   },
   "editor_url": null,
-  "notes": "素材支持横向滚动与悬停删除；专业编辑面板展开完整提示词与版本预览；首帧接戏支持 AI 审核及重抽上限后的末帧接续；反馈入口更醒目，修复新建项目写草稿与并发状态记录。"
+  "notes": "分镜方法与台词时长提醒；本机扩展工作流及附加命令；付费工作流离线授权（含永久授权）；仙宫云改用接口关机释放GPU。"
 }
