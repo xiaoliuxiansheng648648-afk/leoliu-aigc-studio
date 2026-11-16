@@ -1,19 +1,19 @@
 {
   "name": "leoliu-studio",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "schemaVersion": 1,
   "components": {
     "core": {
-      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.6/core-1.0.6.zip",
-      "size": 1773270,
-      "sha256": "9148456534d1c90ba0f3faa1b9cf5307487917887c3734326e45fe36235c4214"
+      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.7/core-1.0.7.zip",
+      "size": 1787600,
+      "sha256": "089b9ec4b766e522a5a8750664c4e62eaa8971cf203950860bbd8493febe48ab"
     },
     "runtime": {
-      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.6/runtime-1.0.6.zip",
+      "url": "https://raw.githubusercontent.com/xiaoliuxiansheng648648-afk/leoliu-aigc-studio/main/v1.0.7/runtime-1.0.7.zip",
       "size": 11801332,
       "sha256": "71152f4746112e9b284b12bf6cc1e4cc5cd420553f97f27df31d5ba135e38d19"
     }
   },
   "editor_url": null,
-  "notes": "分镜方法与台词时长提醒；本机扩展工作流及附加命令；付费工作流离线授权（含永久授权）；仙宫云改用接口关机释放GPU。"
+  "notes": "“多参考 · 自然”免费开放；新增 8 步加速开关（默认关，勾选时列出优缺点）；画布新增卡片操作条、小地图和快捷键。"
 }
